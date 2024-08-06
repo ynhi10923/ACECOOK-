@@ -7,7 +7,7 @@
 #Hướng dẫn cài đặt
 1. **Clone dự án:**
     ```bash
-    git clone https://github.com/acecook/du-an-quan-ly.git
+    git clone https://github.com/ynhi10923/ACECOOK-.git
     cd du-an-quan-ly
     ```
 
